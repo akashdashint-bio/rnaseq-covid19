@@ -133,5 +133,5 @@ rnaseq-covid19/
 
 ## Author
 
-**Akash Dash** | [@AkashDash-bio](https://github.com/AkashDash-bio)  
+**Akash Dash** | [@AkashDashInt-bio](https://github.com/AkashDashInt-bio)  
 Independent bioinformatics project — RNA-seq differential expression analysis
